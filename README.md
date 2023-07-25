@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Deep Learning Projects**
 
-- 💬 Ask me about **Data Science, Machine Learning, NLP**
+- 💬 Ask me about **NodeJs, Data Science, Machine Learning, NLP**
 
 - 📫 How to reach me **parthmalaviya2002@gmail.com**
 
