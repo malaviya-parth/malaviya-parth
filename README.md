@@ -1,3 +1,5 @@
+<h1 align="center">Hi 👋, I'm Parth Malaviya 🤓.</h1>
+
 # 💫 About Me:
 🔭 I’m currently working on Full-Stack Development<br>🤝 I’m looking for help with Natural Language Processing Projects<br>🌱 I’m currently learning Deep Learning<br>💬 Ask me about DS, ML, ReactJS, NodeJS, MongoDB, MySQL<br>⚡ Fun Fact Can play chess with you anytime.
 
@@ -21,7 +23,6 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=malaviya-parth&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
----
-[![](https://visitcount.itsvg.in/api?id=malaviya-parth&icon=7&color=1)](https://visitcount.itsvg.in)
+![Parth Malaviya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=malaviya-parth&bg_color=151515&color=f5f6fa&line=fa8b00&point=f5f6fa&area=true&hide_border=true)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+[![](https://visitcount.itsvg.in/api?id=malaviya-parth&icon=7&color=1)](https://visitcount.itsvg.in)
